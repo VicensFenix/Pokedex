@@ -13,6 +13,7 @@ Este proyecto es una implementación de la **Pokedex** utilizando únicamente **
 - Visualización de información de Pokémon en tiempo real.
 - Búsqueda de Pokémon por nombre o tipo.
 - Diseño responsivo sin frameworks adicionales.
+- Te da información de los Pokémon
 
 ## 🔗 API utilizada
 Se utilizó la API pública de la **PokeAPI** ([https://pokeapi.co/](https://pokeapi.co/)) para obtener los datos de los Pokémon.
