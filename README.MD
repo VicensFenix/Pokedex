@@ -26,7 +26,7 @@ Se utilizó la API pública de la **PokeAPI** ([https://pokeapi.co/](https://pok
 ## 📌 Instalación y uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/VicensFenix/Pok-dex.git
+   git clone https://github.com/VicensFenix/pokedex_v1.git
    ```
 2. Abre la carpeta POKEDEX en tu editor favorito.
 3. Mejora el código o el diseño a tu manera.
